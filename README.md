@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,100:0072ff&height=250&section=header&text=Shakil%20Ahamed&fontSize=45&fontColor=ffffff&animation=twinkling" />
+<!-- Cool Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Shakil%20Ahamed&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast+🚀;Python+Developer+🐍;Machine+Learning+Learner+🤖;Love+to+Explore+Data+📊" />
@@ -33,7 +33,9 @@
 ---
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/shakilAhamed001/shakilAhamed001/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shakilAhamed001/shakilAhamed001/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
