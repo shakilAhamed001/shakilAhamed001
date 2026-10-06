@@ -147,7 +147,9 @@ class Shakil:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakilAhamed001&bg_color=020617&color=38BDF8&line=0A66C2&point=FF3B6B&area=true&hide_border=true" width="96%" alt="GitHub activity graph"/>
+<a href="https://github.com/shakilAhamed001">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakilAhamed001&bg_color=020617&color=38BDF8&line=0A66C2&point=FF3B6B&area=true&hide_border=true&custom_title=Shakil%27s%20GitHub%20Activity" width="96%" alt="Shakil's GitHub activity graph"/>
+</a>
 
 </div>
 
