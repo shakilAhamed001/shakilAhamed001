@@ -254,3 +254,145 @@ NEXT LEVEL
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0A66C2,100:020617&height=140&section=footer" width="100%"/>
 
 </div>
+
+---
+
+## 🎮 12 — README GAME ARCADE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=PLAYER+1%3A+SHAKIL;MISSION%3A+LEARN+%2B+BUILD+%2B+SHIP;SELECT+YOUR+CHALLENGE+%E2%96%BC" alt="Animated arcade intro"/>
+
+</div>
+
+> **README Arcade:** small games and challenges you can play directly from this profile README. No installation required.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧩 GAME 01 — OUTPUT BOSS
+
+**What does this print?**
+
+```python
+x = [1, 2, 3]
+print(x[-1] * 2)
+```
+
+<details>
+<summary>🎯 Reveal answer</summary>
+
+**6**
+
+</details>
+
+</td>
+<td align="center" width="33%">
+
+### 🐛 GAME 02 — BUG HUNT
+
+Find the bug:
+
+```python
+name = "Shakil"
+print("Hello " + name + 10)
+```
+
+<details>
+<summary>🔍 Reveal answer</summary>
+
+The integer **10** must be converted to a string, or use an f-string.
+
+</details>
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 GAME 03 — LOGIC RUN
+
+Complete the sequence:
+
+**2 → 4 → 8 → 16 → ?**
+
+<details>
+<summary>⚡ Reveal answer</summary>
+
+**32** — multiply by 2 each time.
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=6&section=header&animation=twinkling" width="82%" alt="Animated arcade divider"/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎲 GAME 04 — EMOJI CODE
+
+Decode this:
+
+**🐍 + 📊 + 🤖 = ?**
+
+<details>
+<summary>🎮 Reveal</summary>
+
+**Python + Data Science + Machine Learning**
+
+</details>
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 GAME 05 — NEXT MOVE
+
+Pick your developer path:
+
+**A)** Learn  
+**B)** Build  
+**C)** Ship  
+**D)** All three
+
+<details>
+<summary>🏆 Best move</summary>
+
+**D — Learn → Build → Improve → Ship**
+
+</details>
+
+</td>
+<td align="center" width="33%">
+
+### 💎 GAME 06 — SECRET LEVEL
+
+What matters more?
+
+**Perfect code** or **useful code**?
+
+<details>
+<summary>🔓 Unlock</summary>
+
+Start with **useful code**, then improve it. Shipping creates feedback.
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=FF3B6B&center=true&vCenter=true&width=650&lines=XP+GAINED+%2B100;LEVEL+UP%3A+KEEP+BUILDING;NEXT+MISSION%3A+CREATE+SOMETHING+USEFUL" alt="Animated XP status"/>
+
+</div>
+
+
+---
