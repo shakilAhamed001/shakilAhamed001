@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:06152B,75:0A66C2,100:38BDF8&height=230&section=header&text=MD%20SHAKIL%20AHAMED&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20BUILDER&descAlignY=62&descSize=18&descColor=BAE6FD" width="100%"/>
+<img src="https://raw.githubusercontent.com/shakilAhamed001/shakilAhamed001/main/assets/cinematic-blue.svg" width="100%" alt="Animated cinematic blue hero"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Building+useful+software+from+real+problems.;Python+%7C+Data+Science+%7C+Machine+Learning.;Always+learning.+Always+building." alt="Typing animation"/>
 
