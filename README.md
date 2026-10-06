@@ -12,6 +12,8 @@
 
 </div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
 
 <div align="center">
@@ -26,6 +28,8 @@
 </div>
 
 <br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0A66C2,100:38BDF8&height=80&section=header&text=IDEAS%20%2F%2F%20BUILT%20DIFFERENT&fontSize=24&fontColor=E0F2FE&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Ideas animated section"/></div>
 
 ## 01 — IDEAS. BUILT DIFFERENT.
 
@@ -43,6 +47,8 @@ I’m especially interested in **Python, data analysis, machine learning, backen
 └─────────────────────────────────────────────────────────────┘
 </pre>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03142E,50:075985,100:0EA5E9&height=80&section=header&text=QUICK%20SIGNALS&fontSize=24&fontColor=E0F2FE&animation=twinkling&stroke=38BDF8&strokeWidth=1" width="100%" alt="Quick signals animated section"/></div>
+
 ## 02 — QUICK SIGNALS
 
 <div align="center">
@@ -57,7 +63,11 @@ I’m especially interested in **Python, data analysis, machine learning, backen
 
 </div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:123B72,100:2563EB&height=80&section=header&text=MORE%20THAN%20A%20JOB%20TITLE&fontSize=22&fontColor=E0F2FE&animation=scaleIn&stroke=60A5FA&strokeWidth=1" width="100%" alt="Code identity animated section"/></div>
 
 ## 03 — MORE THAN A JOB TITLE
 
@@ -80,7 +90,11 @@ class Shakil:
         return "Build something useful."
 </pre>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0A3A66,100:0284C7&height=80&section=header&text=REAL%20PROJECTS%20%2F%2F%20REAL%20PROBLEMS&fontSize=21&fontColor=E0F2FE&animation=blinking&stroke=38BDF8&strokeWidth=1" width="100%" alt="Projects animated section"/></div>
 
 ## 04 — REAL PROJECTS. REAL PROBLEMS.
 
@@ -104,7 +118,11 @@ class Shakil:
 
 <a href="https://github.com/shakilAhamed001?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/></a>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B4F8A,100:0EA5E9&height=80&section=header&text=GITHUB%20PULSE&fontSize=24&fontColor=E0F2FE&animation=twinkling&stroke=7DD3FC&strokeWidth=1" width="100%" alt="GitHub pulse animated section"/></div>
 
 ## 05 — GITHUB PULSE
 
@@ -119,7 +137,11 @@ class Shakil:
 
 </div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:082F49,100:0369A1&height=80&section=header&text=ACTIVITY%20%2F%2F%20IN%20MOTION&fontSize=23&fontColor=E0F2FE&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Activity animated section"/></div>
 
 ## 06 — ACTIVITY // IN MOTION
 
@@ -129,7 +151,11 @@ class Shakil:
 
 </div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:164E63,100:0891B2&height=80&section=header&text=THE%20TOOLBOX&fontSize=24&fontColor=E0F2FE&animation=scaleIn&stroke=67E8F9&strokeWidth=1" width="100%" alt="Toolbox animated section"/></div>
 
 ## 07 — THE TOOLBOX
 
@@ -149,7 +175,11 @@ class Shakil:
 
 </div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:0284C7&height=80&section=header&text=CURRENTLY%20LEARNING&fontSize=23&fontColor=E0F2FE&animation=blinking&stroke=38BDF8&strokeWidth=1" width="100%" alt="Learning animated section"/></div>
 
 ## 08 — CURRENTLY LEARNING
 
@@ -169,7 +199,11 @@ SOFTWARE ENGINEERING
 
 > Progress is a direction, not a destination.
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:2563EB&height=80&section=header&text=ROADMAP%20%2F%2F%20NEXT%20LEVEL&fontSize=23&fontColor=E0F2FE&animation=twinkling&stroke=60A5FA&strokeWidth=1" width="100%" alt="Roadmap animated section"/></div>
 
 ## 09 — ROADMAP
 
@@ -185,7 +219,11 @@ NOW
 NEXT LEVEL
 </pre>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0C4A6E,100:0284C7&height=80&section=header&text=CONTRIBUTION%20FLOW&fontSize=24&fontColor=E0F2FE&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Contribution animated section"/></div>
 
 ## 10 — CONTRIBUTION FLOW
 
@@ -193,7 +231,11 @@ NEXT LEVEL
 <img src="https://raw.githubusercontent.com/shakilAhamed001/shakilAhamed001/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 </div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3&section=header&animation=twinkling" width="100%" alt="animated divider"/></div>
+
 ---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0A66C2,100:38BDF8&height=80&section=header&text=LET'S%20BUILD%20SOMETHING&fontSize=24&fontColor=FFFFFF&animation=scaleIn&stroke=BAE6FD&strokeWidth=1" width="100%" alt="Final CTA animated section"/></div>
 
 ## 11 — LET'S BUILD SOMETHING
 
