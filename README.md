@@ -185,19 +185,19 @@ class Shakil:
 
 ## 08 — CURRENTLY LEARNING
 
-<pre>
-DATA SCIENCE
-████████████████░░░░  80%
+<div align="center">
 
-PYTHON
-█████████████████░░░  85%
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=720&lines=%5B+LOADING...+%5D+CURRENT+LEARNING+MODULES;%5B%23%23%23%23%23%23%23%23%5D+DATA+SCIENCE+%7C+80%25;%5B%23%23%23%23%23%23%23%23%23%5D+PYTHON+%7C+85%25;%5B%23%23%23%23%23%23%23%5D+MACHINE+LEARNING+%7C+70%25;%5B%23%23%23%23%23%23%5D+SOFTWARE+ENGINEERING+%7C+65%25" alt="Animated learning loader"/>
 
-MACHINE LEARNING
-██████████████░░░░░░  70%
+<br/>
 
-SOFTWARE ENGINEERING
-█████████████░░░░░░░  65%
-</pre>
+<code>INITIALIZING...</code> → <code>LEARNING...</code> → <code>BUILDING...</code> → <code>UPGRADING...</code>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=6&section=header&animation=twinkling" width="82%" alt="Animated learning progress"/>
+
+</div>
 
 > Progress is a direction, not a destination.
 
