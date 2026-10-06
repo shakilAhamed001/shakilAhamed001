@@ -255,144 +255,93 @@ NEXT LEVEL
 
 </div>
 
----
 
-## 🎮 12 — README GAME ARCADE
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=PLAYER+1%3A+SHAKIL;MISSION%3A+LEARN+%2B+BUILD+%2B+SHIP;SELECT+YOUR+CHALLENGE+%E2%96%BC" alt="Animated arcade intro"/>
+<img src="https://raw.githubusercontent.com/shakilAhamed001/shakilAhamed001/main/assets/space.svg" width="100%" alt="Animated space scene"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=MISSION+CONTROL%3A+ONLINE;EXPLORING+DATA+%7C+CODE+%7C+MACHINE+LEARNING;WELCOME+TO+THE+SHAKIL+SPACE+STATION+%F0%9F%9A%80" alt="Space mission typing animation"/>
 
 </div>
 
-> **README Arcade:** small games and challenges you can play directly from this profile README. No installation required.
+## 🌌 12 — SPACE STATION
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:0B1120,50:075985,80:020617,100:000000&height=5&section=header&animation=twinkling" width="92%" alt="Twinkling stars"/>
 
-### 🧩 GAME 01 — OUTPUT BOSS
+### 🛰️ MISSION CONTROL
 
-**What does this print?**
-
-```python
-x = [1, 2, 3]
-print(x[-1] * 2)
-```
-
-<details>
-<summary>🎯 Reveal answer</summary>
-
-**6**
-
-</details>
-
-</td>
-<td align="center" width="33%">
-
-### 🐛 GAME 02 — BUG HUNT
-
-Find the bug:
-
-```python
-name = "Shakil"
-print("Hello " + name + 10)
-```
-
-<details>
-<summary>🔍 Reveal answer</summary>
-
-The integer **10** must be converted to a string, or use an f-string.
-
-</details>
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 GAME 03 — LOGIC RUN
-
-Complete the sequence:
-
-**2 → 4 → 8 → 16 → ?**
-
-<details>
-<summary>⚡ Reveal answer</summary>
-
-**32** — multiply by 2 each time.
-
-</details>
-
-</td>
-</tr>
-</table>
+| 🪐 SYSTEM | 🚀 STATUS | 🌠 MISSION |
+|:---:|:---:|:---|
+| Python Engine | 🟢 ONLINE | Data & automation |
+| ML Core | 🟢 ONLINE | Intelligent systems |
+| Backend Module | 🟢 ONLINE | Useful software |
+| Learning Drive | ⚡ ACTIVE | Always improving |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=6&section=header&animation=twinkling" width="82%" alt="Animated arcade divider"/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎲 GAME 04 — EMOJI CODE
-
-Decode this:
-
-**🐍 + 📊 + 🤖 = ?**
-
-<details>
-<summary>🎮 Reveal</summary>
-
-**Python + Data Science + Machine Learning**
-
-</details>
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 GAME 05 — NEXT MOVE
-
-Pick your developer path:
-
-**A)** Learn  
-**B)** Build  
-**C)** Ship  
-**D)** All three
-
-<details>
-<summary>🏆 Best move</summary>
-
-**D — Learn → Build → Improve → Ship**
-
-</details>
-
-</td>
-<td align="center" width="33%">
-
-### 💎 GAME 06 — SECRET LEVEL
-
-What matters more?
-
-**Perfect code** or **useful code**?
-
-<details>
-<summary>🔓 Unlock</summary>
-
-Start with **useful code**, then improve it. Shipping creates feedback.
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=FF3B6B&center=true&vCenter=true&width=650&lines=XP+GAINED+%2B100;LEVEL+UP%3A+KEEP+BUILDING;NEXT+MISSION%3A+CREATE+SOMETHING+USEFUL" alt="Animated XP status"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=700&color=7DD3FC&center=true&vCenter=true&width=700&lines=.%C2%B7%E2%80%A2+.%C2%B7%E2%80%A2+.%C2%B7%E2%80%A2+STARFIELD+SCANNING+.%C2%B7%E2%80%A2+.%C2%B7%E2%80%A2;SIGNAL+ACQUIRED+%E2%9C%A8;ROCKET+SYSTEMS+READY+%F0%9F%9A%80" alt="Animated starfield status"/>
 
 </div>
 
+### 🚀 ORBITING PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/shakilAhamed001/Hotel-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shakilAhamed001&repo=Hotel-Management-System&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=FF3B6B"/>
+</a>
+<a href="https://github.com/shakilAhamed001/GyanGriho_server">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shakilAhamed001&repo=GyanGriho_server&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=FF3B6B"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=4&section=header&animation=twinkling" width="75%" alt="Animated orbit divider"/>
+
+</div>
+
+### 🌠 SPACE WALK — CURRENTLY EXPLORING
+
+<div align="center">
+
+🌑 ───── 🪐 ───── 🌍 ───── 🚀 ───── 🌙 ───── ☄️
+
+<br/>
+
+**DATA SCIENCE** &nbsp; ✦ &nbsp; **PYTHON** &nbsp; ✦ &nbsp; **MACHINE LEARNING**
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=2100&pause=600&color=BAE6FD&center=true&vCenter=true&width=760&lines=SCANNING+NEW+TECHNOLOGIES...;ENTERING+NEW+ORBIT...;BUILDING+THE+NEXT+MISSION...;KEEP+LEARNING.+KEEP+SHIPPING." alt="Animated space exploration text"/>
+
+</div>
+
+### 🛸 SPACE ARCADE
+
+> **Choose a mission:** click a planet to explore the project universe.
+
+<div align="center">
+
+[🌍 **EARTH** — Projects](https://github.com/shakilAhamed001?tab=repositories)  
+[🪐 **SATURN** — Code](https://github.com/shakilAhamed001)  
+[🌙 **MOON** — Activity](https://github.com/shakilAhamed001)  
+[☄️ **COMET** — New Mission](https://github.com/shakilAhamed001)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1900&pause=500&color=FF3B6B&center=true&vCenter=true&width=700&lines=+%F0%9F%9A%80+3...+2...+1...+LIFTOFF!;+%E2%9C%A8+MISSION+COMPLETE;+%F0%9F%8C%8C+THE+UNIVERSE+IS+STILL+EXPANDING..." alt="Animated launch sequence"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:075985,65:38BDF8,100:020617&height=120&section=footer&animation=twinkling" width="100%" alt="Animated space footer"/>
+
+</div>
 
 ---
+
